@@ -9,10 +9,10 @@
 ## 🛠️ Tech Stack
 
 ### 🔹 Languages & Frameworks
-![C#](https://img.shields.io/badge/C%23-ED8B00?logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dot-net&logoColor=white)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff)
@@ -24,24 +24,24 @@
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
 
 ### 🔹 Frontend
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4fc08d?logo=vuedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-3774FE?logo=vite&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?logo=chakraui&logoColor=white)
-![Blazor WebAssembly](https://img.shields.io/badge/Blazor_WebAssembly-512BD4?logo=blazor&logoColor=white)
-![MudBlazor](https://img.shields.io/badge/MudBlazor-5C2D91?logo=mudblazor&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff)
+![MudBlazor](https://img.shields.io/badge/MudBlazor-5C2D91?logo=blazor&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff)
 ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)
 ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
 
 ### 🔹 Databases
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
@@ -76,8 +76,8 @@
 ### 🔹 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white) 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
