@@ -64,7 +64,7 @@
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
 ![Azure DevOps](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-F37021?logo=rabbitmq&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFC400?logo=Firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
 
 ### 🔹 Package Managers
