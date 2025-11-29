@@ -66,6 +66,7 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-F37021?logo=rabbitmq&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFC400?logo=Firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-171717?logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-171717?logo=render&logoColor=white)
 
 ### 🔹 Package Managers
 ![NuGet](https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=white) 
