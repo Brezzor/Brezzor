@@ -1,7 +1,9 @@
 #### Hi 👋, I'm Brezzor
+
 ---
 
 ## 🚀 About Me
+
 - 🌱 Currently studying **Software Development @ EK**
 
 ---
@@ -9,6 +11,7 @@
 ## 🛠️ Tech Stack
 
 ### 🔹 Languages & Frameworks
+
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
@@ -24,6 +27,7 @@
 ![JSON](https://img.shields.io/badge/JSON-F7DF1E?logo=json&logoColor=black)
 
 ### 🔹 Frontend
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4fc08d?logo=vuedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -51,6 +55,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFC400?logo=Firebase&logoColor=black)
 
 ### 🔹 Data Engineering & Analytics
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) 
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white) 
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40) 
@@ -60,6 +65,7 @@
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
 
 ### 🔹 DevOps & Platforms
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
 ![Azure DevOps](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=white)
@@ -69,12 +75,14 @@
 ![Render](https://img.shields.io/badge/Render-171717?logo=render&logoColor=white)
 
 ### 🔹 Package Managers
+
 ![NuGet](https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=white) 
 ![npm](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white) 
 ![pip](https://img.shields.io/badge/pip-3776AB?logo=python&logoColor=white) 
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA?logo=python&logoColor=white) 
 
 ### 🔹 Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
@@ -87,7 +95,8 @@
 ![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?logo=typeorm&logoColor=white)
 
-### 🔹 Testing & QA  
+### 🔹 Testing & QA
+
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) 
 ![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=black) 
